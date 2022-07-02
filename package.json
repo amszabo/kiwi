@@ -1,0 +1,22 @@
+{
+  "name": "kiwi",
+  "version": "1.0.0",
+  "description": "Automation testing for kiwi.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amszabo/kiwi.git"
+  },
+  "author": "AS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amszabo/kiwi/issues"
+  },
+  "homepage": "https://github.com/amszabo/kiwi#readme",
+  "devDependencies": {
+    "cypress": "^10.3.0"
+  }
+}
